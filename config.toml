@@ -2,3 +2,5 @@ baseURL = 'http://marciomaiajr.xyz/'
 languageCode = 'en-us'
 title = 'marciomaiajr.xyz'
 theme = 'basic'
+[params]
+	author = 'Márcio Maia Jr'
