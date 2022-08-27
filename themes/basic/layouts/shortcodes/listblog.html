@@ -1,0 +1,7 @@
+<ul>
+{{ range (where .Site.RegularPages "Type" "in" ( .Get 0 )) }}
+	<li>
+		{{ .Date.Format "02/01/2006" }} - <a href ="{{ .RelPermalink }}">{{ .Title }}</a>
+	</li>
+{{ end }}
+</ul>

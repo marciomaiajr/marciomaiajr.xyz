@@ -20,8 +20,13 @@ body {
 }
 
 h1 {
+	color: darkcyan;
+	text-align: left;
+}
+
+h1 > big {
 	color: lightblue;
-	text-align: center;
+	text-align: left;
 }
 
 h1 small {
@@ -35,7 +40,7 @@ h2 {
 
 h3 {
 	color: tomato;
-	text-align: center;
+	text-align: left;
 }
 
 code {
@@ -63,13 +68,18 @@ img {
 
 nav {
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 }
 nav > a {
 	flex: 1;
 	text-align: center;
 	text-decoration: none;
 	color: #fff;
+	font-size: 1.10em;
+}
+
+@media only screen and (min-width: 768px) {
+	nav { flex-direction: row; }
 }
 
 footer {

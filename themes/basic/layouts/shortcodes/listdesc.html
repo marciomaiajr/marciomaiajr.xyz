@@ -1,0 +1,5 @@
+<ul>
+{{ range (where .Site.RegularPages "Type" "in" ( .Get 0 )) }}
+	<li><a href ="{{ .RelPermalink }}">{{ .Title }}</a> - {{ .Params.description }}</li>
+{{ end }}
+</ul>

@@ -16,8 +16,8 @@ Criei esta página para escrever sobre programação e tecnologia em geral.
 
 ## Blog
 
-{{< list "blog">}}
+{{< listblog "blog">}}
 
 ## Miscelânea
 
-{{< list "misc">}}
+{{< listdesc "misc">}}
