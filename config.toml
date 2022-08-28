@@ -3,5 +3,9 @@ languageCode = 'en-us'
 title = 'marciomaiajr.xyz'
 theme = 'basic'
 pluralizelisttitles = false
+[markup.goldmark.parser.attribute]
+block = true
+title = true
+image = true
 [params]
 	author = 'Márcio Maia Jr'

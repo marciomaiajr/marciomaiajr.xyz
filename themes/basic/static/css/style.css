@@ -21,12 +21,11 @@ body {
 
 h1 {
 	color: darkcyan;
-	text-align: left;
+	text-align: center;
 }
 
 h1 > big {
 	color: lightblue;
-	text-align: left;
 }
 
 h1 small {
@@ -35,12 +34,12 @@ h1 small {
 
 h2 {
 	color: goldenrod;
-	text-align: left;
+	text-align: center;
 }
 
 h3 {
 	color: tomato;
-	text-align: left;
+	text-align: center;
 }
 
 code {
@@ -84,4 +83,8 @@ nav > a {
 
 footer {
 	text-align: center;
+}
+
+.leftalign {
+	text-align: left;
 }
