@@ -1,11 +1,11 @@
 <style scoped>
-.picfloat {
-	height: {{ .Get 1 }};
-}
-@media only screen and (min-width: 768px) {
-	.picfloat {
-		float: {{ .Get 2 }};
-	}
-}
+ .picfloat {
+     height: {{ .Get 1 }};
+ }
+ @media only screen and (min-width: 768px) {
+     .picfloat {
+	 float: {{ .Get 2 }};
+     }
+ }
 </style>
 <img class="picfloat" src="{{ .Get 0 }}">
