@@ -17,9 +17,9 @@ bem maior.
 Eu estou apenas no [*Instagram*](https://instagram.com/macoyabz), e mesmo assim, por um tempo limitado,
 pois pretendo sair em breve de todas as redes sociais. Eu estava no *X*
 também, porém com a censura recente do *site*, decidi que não poderia
-arriscar ter que pagar 50 mil reais de multa por causa de uma estúpida
-rede social (IMHO o *twitter* ainda é a melhor rede social da atualidade,
-porém ela realmente pode te deixar alienado).
+arriscar ter que pagar 50 mil reais de multa (que eu não tenho) por causa
+de uma estúpida rede social (IMHO o *twitter* ainda é a melhor rede
+social da atualidade, porém ela realmente pode te deixar alienado).
 
 ## Mensageiros Instantâneos{.leftalign}
 
@@ -32,4 +32,6 @@ do serviço por aqui. *Whatsapp* é um lixo, e o *Telegram* virou um
 
 Minha chave GPG pode ser baixada [*aqui*](/marciomaiajr@gmail.com.asc). A fingerprint dela
 é `0FA3 60AF CA6A 276E 9342  1E5B 8996 B3DB 2576 67DE`. Eu ainda não assino
-os meus *e-mails*; pretendo, porém, no futuro, começar a fazê-lo.
+os meus *e-mails*; pretendo, porém, no futuro, começar a fazê-lo. Se,
+no entanto, você quiser mandar uma mensagem *encriptada*, fique à
+vontade.
