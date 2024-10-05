@@ -19,8 +19,19 @@ diz o ditado: "As pessoas tornam-se crédulas quando deixam
 de acreditar em Deus". O que se mostra verdadeiro quando se
 vê a quantidade de pessoas que acreditam no "papai" estado.
 
+Gosto muito de ler sobre a escola austríaca de economia, e
+tento estudar um pouco sobre *cryptos*, porém estou longe de
+ser um *bitcoinheiro*. Mais *Mises* e menos *Marx*, e pelo
+fim do dinheiro podre estatal.
+
 Sou religioso também, Católico Apostólico Romano, graças a Deus.
 Embora nem sempre tenha sido assim, pois já fui ateu e agnóstico
 (todos tem o direito de não querer enxergar a verdade). Porém, não
 me peçam conselhos religiosos, se você tem alguma dúvida, procure
-um bom sacerdote.
+um bom sacerdote, se confesse e largue a vida degenerada.
+
+Aprecio vídeo-games, principalmente os jogos de *PC* da virada
+do milênio, o que é uma pena, pois provavelmente são os jogos
+mais difíceis de rodar em um sistema operacional livre. Meus
+jogos favoritos são *Fallout 3*, *Rome Total War* e *Silent
+Hunter III*.
