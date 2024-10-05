@@ -43,6 +43,11 @@ h3 {
 	text-align: center;
 }
 
+h3 a {
+	color: tomato;
+	text-align: center;
+}
+
 code {
 	color: lime;
 	border-radius: 5px;
