@@ -21,14 +21,6 @@ que não poderia arriscar ter que pagar 50 mil reais de multa (que eu não tenho
 por causa de uma estúpida rede social (IMHO o *twitter* ainda é a melhor rede
 social da atualidade, porém ela realmente pode te deixar alienado).
 
-Eu também tenho um *Linkedin*, que pretendo deletar o mais rapidamente
-possível, pois é, sem sombra de dúvidas, a **pior** rede social do mundo de
-todos os tempos. Nada chega perto da breguice do *Linkedin*. É incrível como
-essa rede transborda falsidade, lugar comum e *low IQ*. Sério, dá azia navegar
-por cinco minutos no *Linkedin*. Evite como se fosse a praga. É mais divertido
-fazer um tratamento de canal sem anestesia do que navegar nessa terrível mídia
-social.
-
 ## Mensageiros Instantâneos{.leftalign}
 
 Ainda estou decidindo se começo a usar algum cliente *XMPP* ou se vou pro
